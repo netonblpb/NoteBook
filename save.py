@@ -1,4 +1,3 @@
-
 def full(surname, name, phone, note, orient):
     if orient == '1':
         file = open('vertical.csv', 'a')

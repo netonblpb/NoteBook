@@ -1,4 +1,3 @@
-
 def init():
     surname = input("Ввудите Фамилию: ")
     name = input('Введите Имя: ')
